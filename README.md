@@ -5,6 +5,6 @@ FOLLOW THE TWO SIMPLE STEPS AFTER CLONING THE REPOSITORY
 
 once done...
 type
-3) node index.js <<address of the wallet>>
+3) node index.js "address_of_wallet"
 
 output will give you type of wallet.
